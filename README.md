@@ -28,4 +28,5 @@ In this project we we will deploy a Web Application in Azure Kubernetes Services
 
 ![5](/5.png)
 
+Here is the final result, a website deployed with Kubernets in Azure:
 ![6](/6.png)
