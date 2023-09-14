@@ -1,6 +1,8 @@
-# deploy-a-web-app-in-azure-kubernetes
-In this project we we will deploy a Web Application in Azure Kubernetes Services. We will do the following steps:
+# Deploy a web app in azure kubernetes
 
+# Project Description
+
+In this project we we will deploy a Web Application in Azure Kubernetes Services. We will do the following steps:
 
 -Create an Azure Container Registry to store our container images, and set some identities configuration need for the project;
 
@@ -15,6 +17,8 @@ In this project we we will deploy a Web Application in Azure Kubernetes Services
 -Monitoring metrics and see the Azure Kubernetes Cluster health;
 
 -Clean Up the environment
+
+# Snapshots
 
 ![overview](/azure_aks.png)
 
