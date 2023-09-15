@@ -1,4 +1,4 @@
-# Deploy a web app in azure kubernetes
+# Deploy a web app in Azure Kubernetes
 
 # Project Description
 
